@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activity_Array_Adaptator</string>
+    <string name="delete_lab">DELETE</string>
+    <string name="update_lab">UPDATE</string>
+    <string name="add_lab">ADD</string>
+    <string name="tittle_lab">Add Planet</string>
+    <string name="id_lab">Identifiant</string>
+    <string name="name_lab">Name</string>
+    <string name="rayon_lab">Rayon</string>
+    <string name="validate_lab">VALIDATE</string>
+    <string name="return_lab">RETURN</string>
+</resources>
