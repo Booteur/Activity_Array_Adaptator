@@ -45,7 +45,7 @@ public class AddPlaneteActivity extends AppCompatActivity {
                 Toast.makeText(this, "Planete ajoutée avec succès", Toast.LENGTH_SHORT).show();
                 Intent i = new Intent();
                 setResult(Activity.RESULT_OK);
-                //finish();
+                finish();
             }
         } catch (NumberFormatException e) {
             Toast.makeText(this, "get numeric value", Toast.LENGTH_SHORT).show();

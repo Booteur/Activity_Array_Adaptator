@@ -56,7 +56,7 @@ static final int REQUEST_CODE = 100;
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         if(requestCode== REQUEST_CODE && resultCode== Activity.RESULT_OK){
-            refreshPlanetList();
+            //refreshPlanetList();
         }
     }
 }
